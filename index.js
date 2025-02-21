@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import bodyParser from 'body-parser';
-import markdownRoutes from './src/routes/route';
+import markdownRoutes from './src/routes/route.js';
 
 const app = express();
 app.use(cors());

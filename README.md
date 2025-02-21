@@ -1,5 +1,7 @@
 # Markdown-Editor
 
+This Markdown editor provides a seamless real-time conversion experience. As you type Markdown syntax in the editor, the corresponding HTML preview updates instantly, allowing you to see the rendered output without needing to refresh or submit.
+
 # Installation
 
 ### Clone the repository
